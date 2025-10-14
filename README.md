@@ -1,5 +1,5 @@
 
-# 🤖 Machine Learning Algorithms & Techniques
+# Machine Learning Algorithms & Techniques
 
 A comprehensive repository for studying, implementing, and comparing **Machine Learning algorithms and techniques**.  
 Developed and maintained by **Lucca Maximus Romagnolli**.
@@ -13,7 +13,7 @@ The code is modular, well-documented, and designed for easy understanding and re
 
 ---
 
-## 🧠 Included Topics
+## Included Topics
 
 - **Data Preprocessing**
   - Normalization, standardization, and missing data handling.  
@@ -43,5 +43,5 @@ The code is modular, well-documented, and designed for easy understanding and re
 
 ---
 
-## 🚀 Repository Structure
+## Repository Structure
 
