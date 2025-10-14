@@ -42,6 +42,3 @@ The code is modular, well-documented, and designed for easy understanding and re
   `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `xgboost`, `lightgbm`
 
 ---
-
-## Repository Structure
-
