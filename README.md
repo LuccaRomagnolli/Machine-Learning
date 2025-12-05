@@ -28,4 +28,4 @@ pip install -r requirements.txt
 
 **Licença:** ver arquivo `LICENSE`.
 
-**Contato:** Lucca Romagnolli
+**Contato:** lucca2408@gmail.com
