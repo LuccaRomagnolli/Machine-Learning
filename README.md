@@ -29,7 +29,7 @@
 <tr>
 <td width="70%">
 
-**Free Code Academy - Curso de Python**
+**Free Code Camp - Curso de Python**
 - ⏱️ Duração: 4 horas
 - 🎯 Ideal para iniciantes aprenderem o básico
 - 💰 Gratuito
@@ -37,10 +37,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.freecodecamp.org/news/python-programming-course/)**
 
 </td>
 </tr>
@@ -58,10 +55,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.coursera.org/specializations/python)**
 
 </td>
 </tr>
@@ -74,14 +68,12 @@
 **HackerRank**
 - 💻 Plataforma para praticar problemas
 - 🎯 Excelente para preparação de entrevistas
+- 🐍 Seção específica de Python
 
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.hackerrank.com/domains/python)**
 
 </td>
 </tr>
@@ -94,14 +86,12 @@
 **LeetCode**
 - 🧩 Resolução de problemas
 - 🔥 Ótimo para manter habilidades afiadas
+- 💪 Mais de 3000 problemas disponíveis
 
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://leetcode.com/)**
 
 </td>
 </tr>
@@ -114,14 +104,12 @@
 **W3Schools - Python**
 - 📖 Recurso de referência gratuito
 - ⚡ Útil para consultas rápidas
+- 📝 Tutoriais com exemplos práticos
 
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.w3schools.com/python/)**
 
 </td>
 </tr>
@@ -241,6 +229,7 @@
 **The Rust Programming Language (Livro Oficial)**
 - 📘 Guia oficial dos desenvolvedores Rust
 - ✅ Claro e abrangente
+- 🆓 Completamente gratuito online
 
 </td>
 <td width="30%">
@@ -266,6 +255,7 @@
 - 📈 Conceitos estatísticos com aplicações em Python
 - 🔧 Implementações do mundo real
 - ⭐ Essencial para trabalho em data science
+- 📖 Aplica teoria com código prático
 
 </td>
 <td width="30%">
@@ -287,6 +277,7 @@
 - 🧮 Cobre álgebra linear e cálculo
 - 🔍 Matemática profunda por trás dos algoritmos de ML
 - 📚 Melhor usado como texto de referência
+- ⚠️ Não precisa ler do início ao fim
 
 </td>
 <td width="30%">
@@ -308,6 +299,7 @@
 - 📊 Fundamentos de ML da perspectiva estatística
 - 🎯 Foco em algoritmos práticos do dia a dia
 - 🔬 Teorias fundamentais
+- 💼 Algoritmos mais usados no trabalho
 
 </td>
 <td width="30%">
@@ -329,6 +321,7 @@
 - 🎬 Explicações excelentes de conceitos complexos
 - 🎓 Simplifica tópicos de estatística e ML
 - ⭐ Canal altamente recomendado
+- 🏆 Melhor canal educacional para ML/Stats
 
 </td>
 <td width="30%">
@@ -356,6 +349,8 @@
 - 🏆 **O LIVRO ESSENCIAL** para ML
 - 📖 Cobre desde regressão linear até aprendizado por reforço
 - 🌟 Guia completo de A a Z
+- ⚡ Se comprar apenas um livro, escolha este
+- 💡 Inclui projetos práticos
 
 </td>
 <td width="30%">
@@ -377,6 +372,7 @@
 - ⚡ Guia de referência rápido
 - 📝 Visão concisa dos conceitos de ML
 - 🔄 Ótimo para revisar tópicos
+- ⏰ Leitura rápida mas informativa
 
 </td>
 <td width="30%">
@@ -398,6 +394,7 @@
 - 🚀 Técnicas avançadas além de gradient descent
 - 🔢 Cobre otimização contínua, combinatorial e inteira
 - 📚 Use como texto de referência
+- 🎯 Aprenda novos métodos de otimização
 
 </td>
 <td width="30%">
@@ -422,6 +419,7 @@
 - 📚 Do básico aos conceitos avançados
 - 🐍 Agora em Python (antes era Octave)
 - 🤖 Inclui LLMs e aprendizado por reforço
+- 👨‍🏫 Ensinado por Andrew Ng, líder em IA
 
 </td>
 <td width="30%">
@@ -443,6 +441,7 @@
 - 🔄 Sequência do ML Specialization
 - 🧠 Cobre CNNs, RNNs e deep learning avançado
 - ⭐ Altamente recomendado
+- 🎯 Foco em redes neurais profundas
 
 </td>
 <td width="30%">
@@ -468,6 +467,7 @@
 - 🏗️ Estruturas de dados e algoritmos
 - 🎯 Aprendizado de system design
 - 💼 Preparação para entrevistas
+- 📊 Problemas organizados por padrões
 
 </td>
 <td width="30%">
@@ -489,6 +489,7 @@
 - 🚀 Guia completo para deploy de ML
 - 📦 Cobre containerização, sistemas cloud, CI/CD
 - ⚙️ Essencial para ML em produção
+- 🎯 Seu guia único para MLOps
 
 </td>
 <td width="30%">
@@ -510,6 +511,7 @@
 - ☁️ Aprenda sistemas cloud
 - 🏆 Credenciais reconhecidas pela indústria
 - 👥 Recomendado por profissionais
+- 💼 Valioso para carreira
 
 </td>
 <td width="30%">
@@ -530,6 +532,8 @@
 **Real Python**
 - ✅ Aprenda linting, typing, unit testing e formatação
 - 🎯 Práticas de código Python pronto para produção
+- 📚 Tutoriais de alta qualidade
+- 💡 Código limpo e profissional
 
 </td>
 <td width="30%">
@@ -550,6 +554,8 @@
 **Git and GitHub Tutorial** (Free Code Camp - YouTube)
 - ⏱️ Duração: 1 hora
 - 📝 Cobre Git básico e comandos essenciais
+- 🆓 Completamente gratuito
+- 🎯 Perfeito para iniciantes
 
 </td>
 <td width="30%">
@@ -567,18 +573,18 @@
 
 ## 📰 Newsletters
 
-| Newsletter | Descrição |
-|------------|-----------|
-| **Data Bites** | `[Adicionar link]` |
-| **To Be a Data Scientist** | `[Adicionar link]` |
-| **Curious Techies** | `[Adicionar link]` |
-| **ML Pills** | `[Adicionar link]` |
-| **Case Data Ladder** | `[Adicionar link]` |
-| **ML Engineer Insights** | `[Adicionar link]` |
-| **AI Weekender** | `[Adicionar link]` |
-| **Data Ground Up** | `[Adicionar link]` |
+> 💡 *Mix de conselhos para entrevistas, detalhes técnicos e notícias da indústria*
 
-💡 *Mix de conselhos para entrevistas, detalhes técnicos e notícias*
+| Newsletter | Foco | Link |
+|------------|------|------|
+| **Data Bites** | 📊 Data Science geral | `[Adicionar link]` |
+| **To Be a Data Scientist** | 🎓 Carreira em DS | `[Adicionar link]` |
+| **Curious Techies** | 🔬 Tech & IA | `[Adicionar link]` |
+| **ML Pills** | 💊 ML rápido e prático | `[Adicionar link]` |
+| **Case Data Ladder** | 📈 Estudos de caso | `[Adicionar link]` |
+| **ML Engineer Insights** | 🛠️ Engenharia de ML | `[Adicionar link]` |
+| **AI Weekender** | 📰 Resumo semanal de IA | `[Adicionar link]` |
+| **Data Ground Up** | 🌱 Fundamentos de dados | `[Adicionar link]` |
 
 ---
 
@@ -590,6 +596,8 @@
 
 **Two Minute Papers**
 - 📄 Análises de papers de pesquisa
+- ⚡ Conteúdo resumido e dinâmico
+- 🔬 Pesquisas de ponta em IA
 
 </td>
 <td width="30%">
@@ -609,6 +617,8 @@
 
 **Fireship**
 - 📰 Notícias e tutoriais tech
+- ⚡ Conteúdo rápido e direto
+- 💻 Desenvolvimento web e IA
 
 </td>
 <td width="30%">
@@ -628,6 +638,8 @@
 
 **Yannic Kilcher**
 - 🔬 Análises profundas de papers de ML
+- 🎓 Explicações técnicas detalhadas
+- 📚 Pesquisa acadêmica
 
 </td>
 <td width="30%">
@@ -647,6 +659,8 @@
 
 **Lex Fridman**
 - 🎙️ Podcasts com líderes tech
+- 💡 Conversas profundas sobre IA
+- 🌟 Entrevistas com especialistas
 
 </td>
 <td width="30%">
@@ -666,6 +680,8 @@
 
 **Dhruv Patel (DZ Patel)**
 - 💼 Insights e atualizações da indústria
+- 📊 Análises de mercado tech
+- 🎯 Conselhos de carreira
 
 </td>
 <td width="30%">
@@ -683,30 +699,56 @@
 
 ## 🐦 Perfis para Seguir no Twitter/X
 
-### Líderes de IA Recomendados:
+> 💡 *Mantenha-se atualizado sobre pesquisas de ponta e opiniões de especialistas*
 
-- 🔹 **Sam Altman** - `[Adicionar link]`
-- 🔹 **Elon Musk** - `[Adicionar link]`
-- 🔹 **Yann LeCun** - `[Adicionar link]`
-- 🔹 **Andrej Karpathy** - `[Adicionar link]`
-- 🔹 **Outros pesquisadores proeminentes em IA**
+### 🌟 Líderes de IA Recomendados:
 
-💡 *Mantenha-se atualizado sobre pesquisas de ponta e opiniões de especialistas*
+| Pessoa | Área de Expertise | Link |
+|--------|-------------------|------|
+| **Sam Altman** | CEO da OpenAI | `[Adicionar link]` |
+| **Elon Musk** | Tesla, xAI | `[Adicionar link]` |
+| **Yann LeCun** | Meta AI, Deep Learning | `[Adicionar link]` |
+| **Andrej Karpathy** | Tesla AI, OpenAI | `[Adicionar link]` |
+| **Outros pesquisadores** | Diversos | `[Adicionar conforme interesse]` |
 
 ---
 
 ## 📝 Blogs Técnicos de Empresas
 
-Leia blogs técnicos de empresas líderes para entender soluções do mundo real:
+> 💡 *Esses blogs fornecem implementações práticas e soluções reais de ML*
 
-| Empresa | Blog | Link |
-|---------|------|------|
-| **Meta** | Engineering Blog | `[Adicionar link]` |
-| **Airbnb** | Tech Blog | `[Adicionar link]` |
-| **Spotify** | Engineering | `[Adicionar link]` |
-| **DeepMind** | Blog | `[Adicionar link]` |
-
-💡 *Esses blogs fornecem implementações práticas e soluções reais de ML*
+<table>
+<tr>
+<td width="25%"><strong>🏢 Empresa</strong></td>
+<td width="35%"><strong>📝 Descrição</strong></td>
+<td width="20%"><strong>💡 Foco</strong></td>
+<td width="20%"><strong>🔗 Link</strong></td>
+</tr>
+<tr>
+<td><strong>Meta Engineering</strong></td>
+<td>Sistemas de larga escala, ML em produção</td>
+<td>Deep Learning, Infraestrutura</td>
+<td><code>[Adicionar link]</code></td>
+</tr>
+<tr>
+<td><strong>Airbnb Tech</strong></td>
+<td>Sistemas de recomendação, experiência do usuário</td>
+<td>ML aplicado, Design</td>
+<td><code>[Adicionar link]</code></td>
+</tr>
+<tr>
+<td><strong>Spotify Engineering</strong></td>
+<td>Algoritmos de recomendação musical</td>
+<td>Personalização, Audio ML</td>
+<td><code>[Adicionar link]</code></td>
+</tr>
+<tr>
+<td><strong>DeepMind</strong></td>
+<td>Pesquisa de ponta em IA</td>
+<td>Pesquisa, AlphaFold, Gemini</td>
+<td><code>[Adicionar link]</code></td>
+</tr>
+</table>
 
 ---
 
@@ -714,25 +756,65 @@ Leia blogs técnicos de empresas líderes para entender soluções do mundo real
 
 ### 🎯 Princípios Fundamentais
 
-1. **A prática é o melhor professor**
-   - Construa projetos e crie coisas
-   - Aplique conceitos em código conforme aprende
+<table>
+<tr>
+<td width="5%">1️⃣</td>
+<td width="95%">
+<strong>A prática é o melhor professor</strong><br>
+• Construa projetos e crie coisas<br>
+• Aplique conceitos em código conforme aprende<br>
+• Não apenas consuma conteúdo, produza também
+</td>
+</tr>
+</table>
 
-2. **Use livros como textos de referência**
-   - Não leia tudo de capa a capa
-   - Foque nos tópicos que você precisa no momento
+<table>
+<tr>
+<td width="5%">2️⃣</td>
+<td width="95%">
+<strong>Use livros como textos de referência</strong><br>
+• Não leia tudo de capa a capa<br>
+• Foque nos tópicos que você precisa no momento<br>
+• Volte aos livros quando necessário
+</td>
+</tr>
+</table>
 
-3. **Mantenha-se atualizado**
-   - Siga líderes da indústria
-   - Leia blogs técnicos regularmente
+<table>
+<tr>
+<td width="5%">3️⃣</td>
+<td width="95%">
+<strong>Mantenha-se atualizado</strong><br>
+• Siga líderes da indústria no Twitter/X<br>
+• Leia blogs técnicos regularmente<br>
+• Participe de comunidades online
+</td>
+</tr>
+</table>
 
-4. **Foque nos fundamentos**
-   - A maioria dos problemas reais não precisa dos algoritmos mais recentes
-   - Domine os conceitos básicos primeiro
+<table>
+<tr>
+<td width="5%">4️⃣</td>
+<td width="95%">
+<strong>Foque nos fundamentos</strong><br>
+• A maioria dos problemas reais não precisa dos algoritmos mais recentes<br>
+• Domine os conceitos básicos primeiro<br>
+• Algoritmos tradicionais resolvem 90% dos problemas
+</td>
+</tr>
+</table>
 
-5. **Aprenda fazendo**
-   - Implemente os conceitos que aprende
-   - Trabalhe em projetos pessoais
+<table>
+<tr>
+<td width="5%">5️⃣</td>
+<td width="95%">
+<strong>Aprenda fazendo</strong><br>
+• Implemente os conceitos que aprende<br>
+• Trabalhe em projetos pessoais<br>
+• Contribua para projetos open source
+</td>
+</tr>
+</table>
 
 ---
 
@@ -743,9 +825,10 @@ Leia blogs técnicos de empresas líderes para entender soluções do mundo real
 <td width="70%">
 
 **Addition of Data Newsletter**
-- 📧 Insights semanais de um ML engineer
+- 📧 Insights semanais de um ML engineer experiente
 - 📅 Enviado toda segunda de manhã
-- 💼 Conselhos práticos e experiências
+- 💼 Conselhos práticos e experiências reais
+- 🎯 Foco em aplicações práticas
 
 </td>
 <td width="30%">
@@ -765,8 +848,19 @@ Leia blogs técnicos de empresas líderes para entender soluções do mundo real
 
 ### ⭐ Se este guia foi útil, considere dar uma estrela!
 
-**Baseado em mais de 3,5 anos de experiência como Cientista de Dados e Engenheiro de Machine Learning**
+---
 
-📅 *Última atualização: 2025*
+### 🤝 Contribuindo
+
+Encontrou algum link quebrado ou quer adicionar recursos? 
+Abra uma issue ou pull request!
+
+### 📜 Licença
+
+Este guia é fornecido gratuitamente para fins educacionais.
+
+---
+
+**💬 Dúvidas?** Abra uma discussion no repositório!
 
 </div>
