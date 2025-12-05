@@ -1,6 +1,6 @@
 # 📚 Guia Completo de Recursos para Machine Learning & Data Science
 
-> Uma coleção abrangente de cursos, livros e recursos para cientistas de dados e engenheiros de machine learning, compilada com base em mais de 3 anos de experiência na área.
+> Uma coleção abrangente de cursos, livros e recursos para cientistas de dados e engenheiros de machine learning.
 
 ---
 
@@ -9,7 +9,6 @@
 - [Programação](#-programação)
   - [Python](#python)
   - [SQL](#sql)
-  - [Rust](#rust)
 - [Matemática & Estatística](#-matemática--estatística)
 - [Machine Learning](#-machine-learning)
 - [Engenharia de Software & Deploy](#-engenharia-de-software--deploy)
@@ -130,10 +129,8 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.udemy.com/course/2022-complete-sql-bootcamp-from-zero-to-hero-in-sql/?utm_campaign=Search_Keyword_Alpha_Prof_la.ES_cc.ROW-Spanish&utm_source=google&utm_medium=paid-search&portfolio=ROW-Spanish&utm_audience=mx&utm_tactic=nb&utm_term=sql+courses+online&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=21487757262&gclid=Cj0KCQiA_8TJBhDNARIsAPX5qxT4GUU3FzN3z91mdgrKo_buQG6T_VOdlw7iRHGm53oOMbpSZ-5DPLcaAjBkEALw_wcB&couponCode=PMNVD1525)**
+
 
 </td>
 </tr>
@@ -150,10 +147,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://learnsql.com/)**
 
 </td>
 </tr>
@@ -166,14 +160,12 @@
 **HackerRank - SQL**
 - 💪 Problemas de prática SQL
 - 🎯 Preparação para entrevistas
-
+https://www.hackerrank.com/domains/sql
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](www.hackerrank.com/domains/sql)**
+
 
 </td>
 </tr>
@@ -189,10 +181,8 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+
+** 🔗 [Link](https://leetcode.com/studyplan/top-sql-50/)**
 
 </td>
 </tr>
@@ -209,10 +199,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.w3schools.com/sql/)**
 
 </td>
 </tr>
@@ -220,30 +207,6 @@
 
 ---
 
-### Rust
-
-<table>
-<tr>
-<td width="70%">
-
-**The Rust Programming Language (Livro Oficial)**
-- 📘 Guia oficial dos desenvolvedores Rust
-- ✅ Claro e abrangente
-- 🆓 Completamente gratuito online
-
-</td>
-<td width="30%">
-
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 Matemática & Estatística
 
@@ -260,10 +223,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Practical%20Statistics%20for%20Data%20Scientists.pdf)**
 
 </td>
 </tr>
@@ -282,10 +242,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://mml-book.github.io/book/mml-book.pdf)**
 
 </td>
 </tr>
@@ -304,10 +261,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)**
 
 </td>
 </tr>
@@ -326,10 +280,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.youtube.com/c/joshstarmer)**
 
 </td>
 </tr>
@@ -355,10 +306,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.rasa-ai.com/wp-content/uploads/2022/02/Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)**
 
 </td>
 </tr>
@@ -377,10 +325,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)**
 
 </td>
 </tr>
@@ -399,10 +344,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://mrce.in/ebooks/Algorithms%20for%20Optimization.pdf)**
 
 </td>
 </tr>
@@ -424,10 +366,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.coursera.org/specializations/machine-learning-introduction)**
 
 </td>
 </tr>
@@ -446,10 +385,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.coursera.org/specializations/deep-learning)**
 
 </td>
 </tr>
@@ -459,27 +395,6 @@
 
 ## 💻 Engenharia de Software & Deploy
 
-<table>
-<tr>
-<td width="70%">
-
-**NeetCode**
-- 🏗️ Estruturas de dados e algoritmos
-- 🎯 Aprendizado de system design
-- 💼 Preparação para entrevistas
-- 📊 Problemas organizados por padrões
-
-</td>
-<td width="30%">
-
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -494,10 +409,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)**
 
 </td>
 </tr>
@@ -516,36 +428,12 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://aws.amazon.com/certification/)**
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="70%">
-
-**Real Python**
-- ✅ Aprenda linting, typing, unit testing e formatação
-- 🎯 Práticas de código Python pronto para produção
-- 📚 Tutoriais de alta qualidade
-- 💡 Código limpo e profissional
-
-</td>
-<td width="30%">
-
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -560,10 +448,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.youtube.com/watch?v=mAFoROnOfHs)**
 
 </td>
 </tr>
@@ -577,14 +462,14 @@
 
 | Newsletter | Foco | Link |
 |------------|------|------|
-| **Data Bites** | 📊 Data Science geral | `[Adicionar link]` |
-| **To Be a Data Scientist** | 🎓 Carreira em DS | `[Adicionar link]` |
-| **Curious Techies** | 🔬 Tech & IA | `[Adicionar link]` |
-| **ML Pills** | 💊 ML rápido e prático | `[Adicionar link]` |
-| **Case Data Ladder** | 📈 Estudos de caso | `[Adicionar link]` |
-| **ML Engineer Insights** | 🛠️ Engenharia de ML | `[Adicionar link]` |
-| **AI Weekender** | 📰 Resumo semanal de IA | `[Adicionar link]` |
-| **Data Ground Up** | 🌱 Fundamentos de dados | `[Adicionar link]` |
+| **Data Bites** | 📊 Data Science geral | `[ link]` |
+| **To Be a Data Scientist** | 🎓 Carreira em DS | `[ link]` |
+| **Curious Techies** | 🔬 Tech & IA | `[ link]` |
+| **ML Pills** | 💊 ML rápido e prático | `[ link]` |
+| **Case Data Ladder** | 📈 Estudos de caso | `[ link]` |
+| **ML Engineer Insights** | 🛠️ Engenharia de ML | `[ link]` |
+| **AI Weekender** | 📰 Resumo semanal de IA | `[ link]` |
+| **Data Ground Up** | 🌱 Fundamentos de dados | `[ link]` |
 
 ---
 
@@ -593,8 +478,8 @@
 <table>
 <tr>
 <td width="70%">
-
 **Two Minute Papers**
+
 - 📄 Análises de papers de pesquisa
 - ⚡ Conteúdo resumido e dinâmico
 - 🔬 Pesquisas de ponta em IA
@@ -602,10 +487,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)**
 
 </td>
 </tr>
@@ -623,10 +505,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.youtube.com/@Fireship)**
 
 </td>
 </tr>
@@ -644,10 +523,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.youtube.com/@YannicKilcher)**
 
 </td>
 </tr>
@@ -665,10 +541,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+**🔗 [Link](https://www.youtube.com/@lexfridman)**
 
 </td>
 </tr>
@@ -686,10 +559,7 @@
 </td>
 <td width="30%">
 
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
+ **🔗 [Link](https://scholar.google.com/citations?user=w_JyTtkAAAAJ&hl=en)**
 
 </td>
 </tr>
@@ -705,12 +575,10 @@
 
 | Pessoa | Área de Expertise | Link |
 |--------|-------------------|------|
-| **Sam Altman** | CEO da OpenAI | `[Adicionar link]` |
-| **Elon Musk** | Tesla, xAI | `[Adicionar link]` |
-| **Yann LeCun** | Meta AI, Deep Learning | `[Adicionar link]` |
-| **Andrej Karpathy** | Tesla AI, OpenAI | `[Adicionar link]` |
-| **Outros pesquisadores** | Diversos | `[Adicionar conforme interesse]` |
-
+| **Sam Altman** | CEO da OpenAI |
+| **Elon Musk** | Tesla, xAI |
+| **Yann LeCun** | Meta AI, Deep Learning |
+| **Andrej Karpathy** | Tesla AI, OpenAI |
 ---
 
 ## 📝 Blogs Técnicos de Empresas
@@ -728,25 +596,21 @@
 <td><strong>Meta Engineering</strong></td>
 <td>Sistemas de larga escala, ML em produção</td>
 <td>Deep Learning, Infraestrutura</td>
-<td><code>[Adicionar link]</code></td>
 </tr>
 <tr>
 <td><strong>Airbnb Tech</strong></td>
 <td>Sistemas de recomendação, experiência do usuário</td>
 <td>ML aplicado, Design</td>
-<td><code>[Adicionar link]</code></td>
 </tr>
 <tr>
 <td><strong>Spotify Engineering</strong></td>
 <td>Algoritmos de recomendação musical</td>
 <td>Personalização, Audio ML</td>
-<td><code>[Adicionar link]</code></td>
 </tr>
 <tr>
 <td><strong>DeepMind</strong></td>
 <td>Pesquisa de ponta em IA</td>
 <td>Pesquisa, AlphaFold, Gemini</td>
-<td><code>[Adicionar link]</code></td>
 </tr>
 </table>
 
@@ -818,32 +682,6 @@
 
 ---
 
-## 📬 Recurso Adicional
-
-<table>
-<tr>
-<td width="70%">
-
-**Addition of Data Newsletter**
-- 📧 Insights semanais de um ML engineer experiente
-- 📅 Enviado toda segunda de manhã
-- 💼 Conselhos práticos e experiências reais
-- 🎯 Foco em aplicações práticas
-
-</td>
-<td width="30%">
-
-**🔗 Link:**
-```
-[Adicionar link aqui]
-```
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 ### ⭐ Se este guia foi útil, considere dar uma estrela!
@@ -860,7 +698,5 @@ Abra uma issue ou pull request!
 Este guia é fornecido gratuitamente para fins educacionais.
 
 ---
-
-**💬 Dúvidas?** Abra uma discussion no repositório!
 
 </div>
